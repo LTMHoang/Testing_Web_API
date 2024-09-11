@@ -1,0 +1,16 @@
+{
+  "name": "btl_ktpm_api_83_hoang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch TestAPI_JSON_83_Hoang.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "i": "^0.3.7",
+    "json-server": "^1.0.0-alpha.23"
+  }
+}

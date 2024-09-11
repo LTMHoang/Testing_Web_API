@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MY_STUDY\\CODE\\C#\\BTL_KTPM_83_Hoang\\83_Hoang_N1_KiemThu_UnitTest_WebEnka.Network_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36B4A714-49CC-4C2B-BD4D-CBC759579EF0}|BTL_KTPM_UnitTest_Enka.Network_83_Hoang\\BTL_KTPM_UnitTest_Enka.Network_83_Hoang.csproj|e:\\my_study\\code\\c#\\btl_ktpm_83_hoang\\83_hoang_n1_kiemthu_unittest_webenka.network_api\\btl_ktpm_unittest_enka.network_83_hoang\\ktpm_unittest_enka.network_83_hoang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B4A714-49CC-4C2B-BD4D-CBC759579EF0}|BTL_KTPM_UnitTest_Enka.Network_83_Hoang\\BTL_KTPM_UnitTest_Enka.Network_83_Hoang.csproj|solutionrelative:btl_ktpm_unittest_enka.network_83_hoang\\ktpm_unittest_enka.network_83_hoang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF81E5D5-7FA6-46EC-AB2B-DB76FA7A2FEE}|BTL_KTPM_Enka.Network_83_Hoang\\BTL_KTPM_Enka.Network_83_Hoang.csproj|e:\\my_study\\code\\c#\\btl_ktpm_83_hoang\\83_hoang_n1_kiemthu_unittest_webenka.network_api\\btl_ktpm_enka.network_83_hoang\\ktpm_enka.network_83_hoang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF81E5D5-7FA6-46EC-AB2B-DB76FA7A2FEE}|BTL_KTPM_Enka.Network_83_Hoang\\BTL_KTPM_Enka.Network_83_Hoang.csproj|solutionrelative:btl_ktpm_enka.network_83_hoang\\ktpm_enka.network_83_hoang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B4A714-49CC-4C2B-BD4D-CBC759579EF0}|BTL_KTPM_UnitTest_Enka.Network_83_Hoang\\BTL_KTPM_UnitTest_Enka.Network_83_Hoang.csproj|e:\\my_study\\code\\c#\\btl_ktpm_83_hoang\\83_hoang_n1_kiemthu_unittest_webenka.network_api\\btl_ktpm_unittest_enka.network_83_hoang\\data\\testdata_timkiem_83_hoang.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{36B4A714-49CC-4C2B-BD4D-CBC759579EF0}|BTL_KTPM_UnitTest_Enka.Network_83_Hoang\\BTL_KTPM_UnitTest_Enka.Network_83_Hoang.csproj|solutionrelative:btl_ktpm_unittest_enka.network_83_hoang\\data\\testdata_timkiem_83_hoang.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestData_TimKiem_83_Hoang.csv",
+              "DocumentMoniker": "E:\\MY_STUDY\\CODE\\C#\\BTL_KTPM_83_Hoang\\83_Hoang_N1_KiemThu_UnitTest_WebEnka.Network_API\\BTL_KTPM_UnitTest_Enka.Network_83_Hoang\\Data\\TestData_TimKiem_83_Hoang.csv",
+              "RelativeDocumentMoniker": "BTL_KTPM_UnitTest_Enka.Network_83_Hoang\\Data\\TestData_TimKiem_83_Hoang.csv",
+              "ToolTip": "E:\\MY_STUDY\\CODE\\C#\\BTL_KTPM_83_Hoang\\83_Hoang_N1_KiemThu_UnitTest_WebEnka.Network_API\\BTL_KTPM_UnitTest_Enka.Network_83_Hoang\\Data\\TestData_TimKiem_83_Hoang.csv",
+              "RelativeToolTip": "BTL_KTPM_UnitTest_Enka.Network_83_Hoang\\Data\\TestData_TimKiem_83_Hoang.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-05-03T07:40:16.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KTPM_Enka.Network_83_Hoang.cs [Design]",
+              "DocumentMoniker": "E:\\MY_STUDY\\CODE\\C#\\BTL_KTPM_83_Hoang\\83_Hoang_N1_KiemThu_UnitTest_WebEnka.Network_API\\BTL_KTPM_Enka.Network_83_Hoang\\KTPM_Enka.Network_83_Hoang.cs",
+              "RelativeDocumentMoniker": "BTL_KTPM_Enka.Network_83_Hoang\\KTPM_Enka.Network_83_Hoang.cs",
+              "ToolTip": "E:\\MY_STUDY\\CODE\\C#\\BTL_KTPM_83_Hoang\\83_Hoang_N1_KiemThu_UnitTest_WebEnka.Network_API\\BTL_KTPM_Enka.Network_83_Hoang\\KTPM_Enka.Network_83_Hoang.cs [Design]",
+              "RelativeToolTip": "BTL_KTPM_Enka.Network_83_Hoang\\KTPM_Enka.Network_83_Hoang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T06:28:03.593Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KTPM_UnitTest_Enka.Network_83_Hoang.cs",
+              "DocumentMoniker": "E:\\MY_STUDY\\CODE\\C#\\BTL_KTPM_83_Hoang\\83_Hoang_N1_KiemThu_UnitTest_WebEnka.Network_API\\BTL_KTPM_UnitTest_Enka.Network_83_Hoang\\KTPM_UnitTest_Enka.Network_83_Hoang.cs",
+              "RelativeDocumentMoniker": "BTL_KTPM_UnitTest_Enka.Network_83_Hoang\\KTPM_UnitTest_Enka.Network_83_Hoang.cs",
+              "ToolTip": "E:\\MY_STUDY\\CODE\\C#\\BTL_KTPM_83_Hoang\\83_Hoang_N1_KiemThu_UnitTest_WebEnka.Network_API\\BTL_KTPM_UnitTest_Enka.Network_83_Hoang\\KTPM_UnitTest_Enka.Network_83_Hoang.cs",
+              "RelativeToolTip": "BTL_KTPM_UnitTest_Enka.Network_83_Hoang\\KTPM_UnitTest_Enka.Network_83_Hoang.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAmwO0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T06:15:17.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "TestAPI_JSON_83_Hoang": [
+    {
+      "uid": "808071209",
+      "name": "YaneYane",
+      "game": "Honkai: Star Rail",
+      "category_id": 2,
+      "id": "a12c"
+    },
+    {
+      "id": "aacc",
+      "uid": "823654800",
+      "name": "NoName",
+      "game": "Genshin Impact",
+      "category_id": 1
+    },
+    {
+      "id": "bdbd",
+      "uid": "823654330",
+      "name": "NoName",
+      "game": "Honkai: Star Rail",
+      "category_id": 2
+    },
+    {
+      "id": "aaaa",
+      "uid": "823654350",
+      "name": "NoNameNo",
+      "game": "Honkai: Star Rail",
+      "category_id": 2
+    }
+  ]
+}
